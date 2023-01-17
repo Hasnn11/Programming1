@@ -1,0 +1,14 @@
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\bin\Debug\nuhaa.exe.config
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\bin\Debug\nuhaa.exe
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\bin\Debug\nuhaa.pdb
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.csprojResolveAssemblyReference.cache
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.MainForm.resources
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.csproj.GenerateResource.Cache
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.exe
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.pdb
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\bin\Debug\MySql.Data.DLL
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.MenuUtama.resources
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.DataBarang.resources
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.DataPenjualan.resources
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.About.resources
+C:\Users\Hasnn\Documents\SharpDevelop Projects\nuhaa\nuhaa\obj\Debug\nuhaa.Transaksi.resources
